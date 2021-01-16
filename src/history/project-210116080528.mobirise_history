@@ -27,7 +27,7 @@
         "isGhostButtonBorder": false,
         "underlinedLinks": false,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#60d6f7",
@@ -47,6 +47,8 @@
     "imageResize": true,
     "uniqCompNum": 20,
     "versionPublish": "5.2.0",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/jan.gabriel/Repos/zuzkabobr-cz/docs",
     "favicon": "@PROJECT_PATH@/assets/images/zb-podklady-ai-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -54,8 +56,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-80C63SRVQ7\"></script>\n<script>\n    window.dataLayer = window.dataLayer || [];\n    function gtag() { dataLayer.push(arguments); }\n    gtag('js', new Date());\n\n    gtag('config', 'G-80C63SRVQ7');\n</script>"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
